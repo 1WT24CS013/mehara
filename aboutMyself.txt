@@ -1,7 +1,9 @@
 Title:Ms.
-Full Name:Meahra Afsha.B
+Full Name:Mehara Afsha.b
 USN:1WT24CS013
-Semester:Third
-Section:A
+Sem:Third
+Sec:A
 Branch:CSE
-Academic Year:2024-25
+Year of admission:2024
+College Name:GITW
+
