@@ -1,1 +1,7 @@
-
+Title:Ms.
+Full Name:Meahra Afsha.B
+USN:1WT24CS013
+Semester:Third
+Section:A
+Branch:CSE
+Academic Year:2024-25
