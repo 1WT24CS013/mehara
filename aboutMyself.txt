@@ -6,4 +6,6 @@ Sec:A
 Branch:CSE
 Year of admission:2024
 College Name:GITW
-
+sslc:gnana jyothi international school
+PUC:SCG
+UG:2nd year BE CSE
