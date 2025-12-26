@@ -12,7 +12,4 @@ College Name:GITW
 sslc:gnana jyothi international school
 PUC:SCG
 UG:2nd year BE CSE
-<<<<<<< HEAD
 
-=======
->>>>>>> e2fa356 (Updating the contents of aboutMyself.txt file successful:)
