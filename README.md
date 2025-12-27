@@ -6,6 +6,7 @@ Section: A
 Subject Name: Project Management with GIT
 Subject Code: BCS358C
 Academic Year: 2024-25
+Github ID:1WT24CS013
 Mobile No: 1234656787
 
 
